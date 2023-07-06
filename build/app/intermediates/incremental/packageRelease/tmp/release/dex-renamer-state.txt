@@ -1,4 +1,0 @@
-#Thu Jul 06 21:50:31 ICT 2023
-base.0=E\:\\Pariwisataku (3)\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
-renamed.0=classes.dex
-path.0=classes.dex
