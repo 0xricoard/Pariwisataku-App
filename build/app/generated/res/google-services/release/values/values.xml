@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">68529593978-c0p63679ku724o956tm3rstf8vdt36gd.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">68529593978</string>
+    <string name="google_api_key" translatable="false">AIzaSyCd3HeZQ5qiJ0kSG2uLQ61htr7ygUvvF_g</string>
+    <string name="google_app_id" translatable="false">1:68529593978:android:9091092e1c68e34fc7a5c3</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCd3HeZQ5qiJ0kSG2uLQ61htr7ygUvvF_g</string>
+    <string name="google_storage_bucket" translatable="false">pariwisataku-app.appspot.com</string>
+    <string name="project_id" translatable="false">pariwisataku-app</string>
+</resources>
